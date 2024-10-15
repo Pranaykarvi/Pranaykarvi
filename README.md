@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/pranay-karvi-b5895a288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay karvi" height="30" width="40" /></a>
 <a href="https://kaggle.com/pranaykarvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranaykarvi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pranay karvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranay karvi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/pranaykarvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranay karvi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pranaykarvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranaykarvi" height="30" width="40" /></a>
 </p>
 
