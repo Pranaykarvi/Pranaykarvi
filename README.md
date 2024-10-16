@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Pranay Karvi</h1>
 <h3 align="center">Passionate about Data Science | Continuously Exploring and Learning the World of Data</h3>
-<img align="right" alt ="coding" width="400" src="https://github.com/Pranaykarvi/Pranaykarvi/blob/main/businessman-working-intensely-with-stock-market-trade-data_1108486-2009.jpg"
+<img align="right" alt ="coding" width="400" src="https://github.com/Pranaykarvi/Pranaykarvi/blob/main/data-scientist-bioinformatics-specialist-it-illustrated-flat-minimal-design_987764-252730.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaykarvi&label=Profile%20views&color=0e75b6&style=flat" alt="pranaykarvi" /> </p>
 
 - 🔭 I’m currently working on [AutomatedChess](https://github.com/Pranaykarvi/AutomatedChess/tree/main)
