@@ -1,9 +1,9 @@
-<img src="https://github.com/Pranaykarvi/Pranaykarvi/blob/main/9d872ddd-7add-4fcf-afbf-3c079ceb8b6a.webp" width="800" />
+<img src="https://github.com/Pranaykarvi/Pranaykarvi/blob/main/9d872ddd-7add-4fcf-afbf-3c079ceb8b6a.webp" width="850" />
 
 
 <h1 align="center">Hi 👋, I'm Pranay Karvi</h1>
 <h3 align="center">Passionate about Data Science | Continuously Exploring and Learning the World of Data</h3>
-<img align="right" alt ="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNhanZwaHlsZ2xkeXhnc3g2Z2t2bzA5enU3Z3VmMDF0a3B0MWd2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"
+<img align="right" alt ="coding" width="400" src="https://github.com/Pranaykarvi/Pranaykarvi/blob/main/businessman-working-intensely-with-stock-market-trade-data_1108486-2009.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaykarvi&label=Profile%20views&color=0e75b6&style=flat" alt="pranaykarvi" /> </p>
 
 - 🔭 I’m currently working on [AutomatedChess](https://github.com/Pranaykarvi/AutomatedChess/tree/main)
