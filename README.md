@@ -6,7 +6,7 @@
 <img align="right" alt ="coding" width="400" src="https://github.com/Pranaykarvi/Pranaykarvi/blob/main/data-scientist-bioinformatics-specialist-it-illustrated-flat-minimal-design_987764-252730.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaykarvi&label=Profile%20views&color=0e75b6&style=flat" alt="pranaykarvi" /> </p>
 
-- 🔭 I’m currently working on [AutomatedChess](https://github.com/Pranaykarvi/AutomatedChess/tree/main)
+- 🔭 I’m currently working on [AutomatedChess](https://github.com/Pranaykarvi/PlantDisease)
 
 - 🌱 I’m currently learning **Machine Learning**
 
