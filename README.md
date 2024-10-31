@@ -1,4 +1,4 @@
-<img src="https://github.com/Pranaykarvi/Pranaykarvi/blob/main/9d872ddd-7add-4fcf-afbf-3c079ceb8b6a.webp" width="810" />
+<img src="https://github.com/Pranaykarvi/Pranaykarvi/blob/main/9d872ddd-7add-4fcf-afbf-3c079ceb8b6a.webp" width="800" />
 
 
 <h1 align="center">Hi 👋, I'm Pranay Karvi</h1>
