@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Pranaykarvi@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1TpTp7wdM3fVv2J_wk3h0Z1Yiexn7Jr5n/edit?usp=sharing&ouid=100998302812771639527&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_wtrUZT2k3XQlzOn2eKMkDoNoQis-LJJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
