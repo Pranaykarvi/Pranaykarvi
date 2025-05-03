@@ -4,7 +4,7 @@
 <img align="right" alt ="coding" width="300" src="https://github.com/Pranaykarvi/Pranaykarvi/blob/main/data-scientist-bioinformatics-specialist-it-illustrated-flat-minimal-design_987764-252730.jpg"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaykarvi&label=Profile%20views&color=0e75b6&style=flat" alt="pranaykarvi" /> </p>
 
-- 🔭 I’m currently working on [Libra](https://github.com/Pranaykarvi/Libra)
+- 🔭 I’m currently working on [Libra](https://github.com/Pranaykarvi/Libra) and [VisionQuery](https://github.com/Pranaykarvi/VisionQuery)
 
 - 🌱 I’m currently learning **Machine Learning**
 
