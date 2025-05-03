@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <h1 align="center">Hi 👋, I'm Pranay Karvi</h1>
 <h3 align="center">Passionate about Data Science | Continuously Exploring and Learning the World of Data</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaykarvi&label=Profile%20views&color=0e75b6&style=flat" alt="pranaykarvi" /> </p>
