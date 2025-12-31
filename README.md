@@ -137,8 +137,8 @@
 | Project | Description | Tech Stack | Links |
 |:-------:|:-----------:|:----------:|:-----:|
 | **Derma-AI** | Skin lesion classification using ViT + EfficientNet fusion | `Next.js` `TypeScript` `ViT` `EfficientNet` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Derma-AI) [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://derma-ai-git-main-pranaykarvis-projects.vercel.app/) |
-| **Pneunomia-AI** | Ensemble-based pneumonia detection from chest X-rays | `Deep Learning` `Ensemble` `CNN` `Streamlit` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Pneunomia-AI) [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=streamlit&logoColor=white)](https://pneunomia-software-project-git-vers.vercel.app/) |
-| **Plant Disease Classifier** | CNN-based model for plant disease detection | `CNN` `Deep Learning` `Streamlit` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Plant-Disease-Classifier) |
+| **Pneunomia-AI** | Ensemble-based pneumonia detection from chest X-rays | `Deep Learning` `Ensemble` `CNN` `Streamlit` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/pneunomia_software_project_git_version) [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=streamlit&logoColor=white)](https://pneunomia-software-project-git-vers.vercel.app/) |
+| **Plant Disease Classifier** | CNN-based model for plant disease detection | `CNN` `Deep Learning` `Streamlit` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/PlantDisease) |
 
 ### AI & Research Tools
 
@@ -152,7 +152,7 @@
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:-----------:|:----------:|:-----:|
-| **Apple Stock Predictor** | LSTM & GRU-based time-series forecasting model | `LSTM` `GRU` `Time Series` `TensorFlow` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Apple-Stock-Predictor) |
+| **Apple Stock Predictor** | LSTM & GRU-based time-series forecasting model | `LSTM` `GRU` `Time Series` `TensorFlow` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/AppleStockPricePrediction) |
 | **Topography Classifier** | Satellite image classification into land types | `CNN` `Computer Vision` `Satellite Imagery` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Topography-Classifier) |
 | **Accident Emergency Responder** | Real-time emergency detection using geolocation & ML | `ML` `Geolocation` `Real-time` `Flask` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Accident-Emergency-Responder) |
 
