@@ -1,19 +1,50 @@
 <div align="center">
 
+<!-- ========================== HERO / BANNER ========================== -->
+
 <img src="https://github.com/Pranaykarvi/Pranaykarvi/blob/main/9d872ddd-7add-4fcf-afbf-3c079ceb8b6a.webp" width="800" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&color=00C7B7&lines=Hi+👋+I'm+Pranay+Kumar+Karvi" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&pause=1000&color=00C7B7&lines=Hi+I'm+Pranay+Kumar+Karvi" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=100&section=header&text=Pranay%20Kumar%20Karvi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
-<h3 align="center">Passionate about Data Science | Research Intern @ Samsung R&D | Continuously Exploring and Learning the World of Data</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=00C7B7&height=140&section=header&text=Building%20Real-World%20AI&fontSize=34&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Research%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Innovation&descSize=14&descAlignY=62" />
+</div>
+
+<h3 align="center">AI Research Intern @ Samsung R&amp;D | IEEE Published Author | Open Source Contributor | Building Real-World AI Systems</h3>
+
+<!-- ========================== TYPING SVG SUBTITLE ========================== -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=22&duration=2800&pause=900&color=00C7B7&center=true&vCenter=true&width=720&lines=AI+Research+Intern+%40+Samsung+R%26D;IEEE+Published+Author;RAG+%26+LLM+Systems+Builder;Open+Source+Contributor+%40+Apple+%7C+NASA+%7C+NVIDIA+%7C+AWS;Deep+Learning+Researcher" />
+</div>
+
+<br/>
+
+<!-- ========================== QUICK STATS BADGES ========================== -->
+
+<div align="center">
+
+[![IEEE Published](https://img.shields.io/badge/IEEE-Published%20Author-00C7B7?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11447931)
+[![Samsung R&D](https://img.shields.io/badge/Samsung%20R%26D-Research%20Intern-00C7B7?style=for-the-badge&logo=samsung&logoColor=white)](#research--industry-experience)
+[![Open Source](https://img.shields.io/badge/Open%20Source-20%2B%20PRs-00C7B7?style=for-the-badge&logo=github&logoColor=white)](#open-source-contributions)
+[![IIT Bombay](https://img.shields.io/badge/IIT%20Bombay%20Techfest-Top%205%20%2F%201000%2B-00C7B7?style=for-the-badge&logoColor=white)](#hackathons--competitive-engineering)
+[![Mentorship](https://img.shields.io/badge/Mentored-55%2B%20Members-00C7B7?style=for-the-badge&logoColor=white)](#leadership--community)
+[![ACM-W Lead](https://img.shields.io/badge/ACM--W%20VIT-Technical%20Lead-00C7B7?style=for-the-badge&logoColor=white)](#leadership--community)
+
+</div>
+
+<br/>
+
+<!-- ========================== SOCIAL LINKS ========================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranaykarvi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pranaykarvi" />
+  <img src="https://komarev.com/ghpvc/?username=pranaykarvi&label=Profile%20views&color=00C7B7&style=for-the-badge" alt="pranaykarvi" />
 </p>
 
 <div align="center">
@@ -31,17 +62,24 @@
 
 <div align="center">
 
-**Email:** `Pranaykarvi@gmail.com` | **Phone:** `+91 8655287793` | **Resume:** [View Resume](https://drive.google.com/file/d/1WiM8lXTkrKpEKlhGUhZ7GL0CIX5m15U1/view?usp=sharing)
+**Email:** `Pranaykarvi@gmail.com` &nbsp;|&nbsp; **Phone:** `+91 8655287793` &nbsp;|&nbsp; **Resume:** [View Resume](https://drive.google.com/file/d/1WiM8lXTkrKpEKlhGUhZ7GL0CIX5m15U1/view?usp=sharing)
 
 </div>
 
 <br/>
 
+<!-- ========================== CURRENTLY WORKING ON ========================== -->
+
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=26&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Researcher;Open+Source+Contributor;Building+AI+Solutions)
+
+**Currently Working On**
+
+<img src="https://img.shields.io/badge/Samsung%20PRISM%20R%26D-1428A0?style=for-the-badge&logo=samsung&logoColor=white" />
+<img src="https://img.shields.io/badge/ACM--W%20VIT%20Technical%20Lead-00C7B7?style=for-the-badge&logoColor=white" />
 
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=00C7B7&height=50&section=header&text=Welcome+to+My+Profile&fontSize=30&fontColor=fff&animation=twinkling" />
@@ -53,168 +91,403 @@
 
 </div>
 
+<!-- ========================== ABOUT ME / SKILLS BAR ========================== -->
+
+## About Me
+
+<div align="center">
+
+I'm an AI researcher and engineer building real-world systems at the intersection of **deep learning**, **RAG/LLM pipelines**, and **applied research**. From shipping IEEE-published quantum ML work to contributing to **Apple, NASA, NVIDIA, and AWS**, I focus on bridging research papers with production-grade systems.
+
+</div>
+
+### Skills Distribution
+
+```text
+Research              ████████████░░  85%
+Machine Learning      ███████████░░░  80%
+Web Development       █████████░░░░░  70%
+Open Source           ████████░░░░░░  65%
+Cloud / DevOps        ██████░░░░░░░░  50%
+```
+
+<br/>
+
+<!-- ========================== TROPHY WIDGET ========================== -->
+
+<div align="center">
+
+### Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=pranaykarvi&theme=darkhub&no-frame=true&margin-w=15&column=7" />
+
+</div>
+
+---
+
+<!-- ========================== RESEARCH & INDUSTRY EXPERIENCE ========================== -->
+
 ## Research & Industry Experience
 
 <div align="center">
 
-### Research Intern (PRISM – R&D)
-**<img src="https://img.shields.io/badge/Samsung%20R%26D-1428A0?style=for-the-badge&logo=samsung&logoColor=white" />**  
-**Bangalore, India** | <img src="https://img.shields.io/badge/Sept%202025-Present-00C7B7?style=flat-square" />
+### Sept 2025 — Present  ·  Research Intern (PRISM – R&D)
+<img src="https://img.shields.io/badge/Samsung%20R%26D-1428A0?style=for-the-badge&logo=samsung&logoColor=white" />
+<br/>
+<sub><b>Bangalore, India</b></sub> &nbsp; <img src="https://img.shields.io/badge/Sept%202025-Present-00C7B7?style=flat-square" />
 
 </div>
 
-• **HDR Algorithm Development:** Designing and evaluating exposure-bracketing algorithms to maximize dynamic range while minimizing noise under real-time constraints  
-• **Research & Implementation:** Conducting literature review and implementing hybrid pipelines combining image processing, multi-scale histogram analysis, and neural networks  
-• **Model Optimization:** Developing and optimizing models using Python, OpenCV, NumPy, PyTorch, and TensorFlow with focus on latency–quality trade-offs  
-• **Testing & Validation:** Performing robustness testing across diverse lighting scenarios and datasets  
-• **Documentation:** Preparing technical documentation and contributing to research paper drafting
+<details>
+<summary><b>View Responsibilities</b></summary>
+
+<br/>
+
+- **HDR Algorithm Development:** Designing and evaluating exposure-bracketing algorithms to maximize dynamic range while minimizing noise under real-time constraints
+- **Research & Implementation:** Conducting literature review and implementing hybrid pipelines combining image processing, multi-scale histogram analysis, and neural networks
+- **Model Optimization:** Developing and optimizing models using Python, OpenCV, NumPy, PyTorch, and TensorFlow with focus on latency–quality trade-offs
+- **Testing & Validation:** Performing robustness testing across diverse lighting scenarios and datasets
+- **Documentation:** Preparing technical documentation and contributing to research paper drafting
+
+</details>
+
+<br/>
 
 <div align="center">
 
-### Research Intern
-**<img src="https://img.shields.io/badge/Taylor's%20University-1E8449?style=for-the-badge&logo=university&logoColor=white" />**  
-**Malaysia** | <img src="https://img.shields.io/badge/Jan%202025-July%202025-00C7B7?style=flat-square" />
+### Jan 2025 — Jul 2025  ·  Research Intern
+<img src="https://img.shields.io/badge/Taylor's%20University-1E8449?style=for-the-badge&logo=university&logoColor=white" />
+<br/>
+<sub><b>Malaysia</b></sub> &nbsp; <img src="https://img.shields.io/badge/Jan%202025-July%202025-00C7B7?style=flat-square" />
 
 </div>
 
-• **Alzheimer's Detection:** Developed deep learning pipelines for disease detection using MRI and PET multimodal data  
-• **CNN Architectures:** Implemented and benchmarked VGG16, Xception, DenseNet201, and EfficientNet-B3  
-• **Explainable AI:** Applied SHAP and LIME techniques to improve clinical interpretability  
-• **Data Pipeline:** Worked on preprocessing, augmentation, and multi-modal feature fusion  
-• **Publication:** Research manuscript submitted and under review (IEEE) | [View Paper](https://drive.google.com/file/d/1PVEDv4W7olAccms80OrvOJsnezAtQTYK/view?usp=sharing)
+<details>
+<summary><b>View Responsibilities</b></summary>
+
+<br/>
+
+- **Alzheimer's Detection:** Developed deep learning pipelines for disease detection using MRI and PET multimodal data
+- **CNN Architectures:** Implemented and benchmarked VGG16, Xception, DenseNet201, and EfficientNet-B3
+- **Explainable AI:** Applied SHAP and LIME techniques to improve clinical interpretability
+- **Data Pipeline:** Worked on preprocessing, augmentation, and multi-modal feature fusion
+- **Publication:** Research manuscript submitted and under review (IEEE) — [View Paper](https://drive.google.com/file/d/1PVEDv4W7olAccms80OrvOJsnezAtQTYK/view?usp=sharing)
+
+</details>
 
 ---
+
+<!-- ========================== PUBLICATIONS ========================== -->
+
+## Publications
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Title</th>
+      <th align="center">Venue</th>
+      <th align="center">Status</th>
+      <th align="center">Date</th>
+      <th align="center">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">
+        <b><a href="https://ieeexplore.ieee.org/document/11447931">Brain Tumor Detection Using Quantum Convolution Neural Networks</a></b><br/>
+        <sub><b>DOI:</b> <a href="https://doi.org/10.1109/ICISCoIS62701.2026.11447931">10.1109/ICISCoIS62701.2026.11447931</a></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/IEEE-006699?style=for-the-badge&logo=ieee&logoColor=white" /><br/>
+        <sub>2026 ICISCoIS</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Published-2EA043?style=for-the-badge&logoColor=white" />
+      </td>
+      <td align="center">08–10 Jan 2026</td>
+      <td align="center">
+        <a href="https://ieeexplore.ieee.org/document/11447931">
+          <img src="https://img.shields.io/badge/IEEE_Xplore-00C7B7?style=for-the-badge&logo=ieee&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b><a href="https://drive.google.com/file/d/1PVEDv4W7olAccms80OrvOJsnezAtQTYK/view">Alzheimer's Disease Detection using Multimodal Deep Learning (MRI + PET)</a></b><br/>
+        <sub>Taylor's University, Malaysia</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/IEEE-006699?style=for-the-badge&logo=ieee&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Under_Review-FF8C00?style=for-the-badge&logoColor=white" />
+      </td>
+      <td align="center">2025</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1PVEDv4W7olAccms80OrvOJsnezAtQTYK/view">
+          <img src="https://img.shields.io/badge/View_Paper-00C7B7?style=for-the-badge&logo=googledrive&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+---
+
+<!-- ========================== HACKATHONS ========================== -->
 
 ## Hackathons & Competitive Engineering
 
 <div align="center">
 
-### Safetronics Challenge, IIT Bombay Techfest
-<img src="https://img.shields.io/badge/Rank-Top%205%20%2F%201000%2B-FFD700?style=for-the-badge" /> <img src="https://img.shields.io/badge/Dec%202025-Winner-00C7B7?style=for-the-badge" />
-
-**Project: RIMUS (Real-time Intelligent Multi-Utility System)**
+<table>
+  <thead>
+    <tr>
+      <th align="center">Rank</th>
+      <th align="center">Hackathon</th>
+      <th align="center">Project</th>
+      <th align="center">Key Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Top_5_%2F_1000%2B-FFD700?style=for-the-badge&logoColor=black" /></td>
+      <td align="center"><b>Safetronics Challenge</b><br/><sub>IIT Bombay Techfest · Dec 2025</sub></td>
+      <td align="center"><b>RIMUS</b><br/><sub>Real-time Intelligent Multi-Utility System</sub></td>
+      <td align="center"><sub>ESP32 · Edge AI<br/>Vision · Thermal</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Top_100_%2F_864%2B-C0C0C0?style=for-the-badge&logoColor=black" /></td>
+      <td align="center"><b>Smart India Hackathon 2025</b><br/><sub>Internal Rounds</sub></td>
+      <td align="center"><b>ArogyaLink</b><br/><sub>Unified rural healthcare platform</sub></td>
+      <td align="center"><sub>Full-Stack · ML · Cloud</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Finalist-CD7F32?style=for-the-badge&logoColor=white" /></td>
+      <td align="center"><b><a href="https://github.com/Pranaykarvi/welldoc_hackathon">Welldoc Hackathon</a></b></td>
+      <td align="center"><b>Diabetes Risk Predictor</b><br/><sub>Explainable AI</sub></td>
+      <td align="center"><sub>XGBoost · SHAP</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Participant-00C7B7?style=for-the-badge&logoColor=white" /></td>
+      <td align="center"><b><a href="https://github.com/Pranaykarvi/google_genai_hackathon">Google GenAI Hackathon</a></b></td>
+      <td align="center"><b>DeepFake & Fake-News Detector</b></td>
+      <td align="center"><sub>GenAI · NLP · CV</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Participant-00C7B7?style=for-the-badge&logoColor=white" /></td>
+      <td align="center"><b><a href="https://github.com/Pranaykarvi/bajaj_hackrx6.0">Bajaj HackRx 6.0</a></b></td>
+      <td align="center"><b>Hackathon Submission</b></td>
+      <td align="center"><sub>FastAPI · LLMs</sub></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
-
-• **Autonomous Rover:** Designed industrial safety rover with sensor-first, fail-safe system integration  
-• **Hardware Integration:** Integrated ESP32 sensing, edge decision logic, vision/thermal perception  
-• **Real-time Dashboard:** Built real-time monitoring dashboards  
-• **Team:** Harsh Singhal, Aqeeb Akeel, Lokesh Maan, Niket Suthar | **Mentor:** Dr. Ravi Prakash Dwivedi
-
-<div align="center">
-
-### Smart India Hackathon (SIH) 2025 (Internal Rounds)
-<img src="https://img.shields.io/badge/Rank-Top%20100%2F%20864%2B-FFD700?style=for-the-badge" />
-
-**Project: ArogyaLink**
-
-</div>
-
-• **Healthcare Ecosystem:** Built unified digital healthcare platform for rural accessibility  
-• **Team:** Harsh Singhal, Lokesh Maan, Niket Suthar, Madhumitha, Vani Makhija  
-• **Mentors:** Dr. Sukriti, Dr. Suganthi
-
-<div align="center">
-
-### Additional Hackathons
-
-</div>
-
-| Hackathon | Achievement | Repository |
-|:---------:|:-----------:|:----------:|
-| **Google GenAI Hackathon** | AI-powered deepfake and fake news detection | [Repository](https://github.com/Pranaykarvi/google_genai_hackathon) |
-| **Bajaj HackRx** | Hackathon project submission | [Repository](https://github.com/Pranaykarvi/bajaj_hackrx6.0) |
-| **Welldoc Hackathon** | Built explainable diabetes risk prediction (XGBoost + SHAP) | [Repository](https://github.com/Pranaykarvi/welldoc_hackathon) |
 
 ---
+
+<!-- ========================== PROJECTS ========================== -->
 
 ## Projects
 
 <div align="center">
 
-### Healthcare & Medical AI
+<details open>
+<summary><b>LLM &amp; RAG Systems (4 projects)</b></summary>
+
+<br/>
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:-----------:|:----------:|:-----:|
-| **Derma-AI** | Skin lesion classification using ViT + EfficientNet fusion | `Next.js` `TypeScript` `ViT` `EfficientNet` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Derma-AI) [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://derma-ai-git-main-pranaykarvis-projects.vercel.app/) |
-| **Pneunomia-AI** | Ensemble-based pneumonia detection from chest X-rays | `Deep Learning` `Ensemble` `CNN` `Streamlit` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/pneunomia_software_project_git_version) [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=streamlit&logoColor=white)](https://pneunomia-software-project-git-vers.vercel.app/) |
-| **Plant Disease Classifier** | CNN-based model for plant disease detection | `CNN` `Deep Learning` `Streamlit` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/PlantDisease) |
+| **LifeMemory AI** | RAG-based personal journaling with hybrid retrieval | `FastAPI` `Supabase` `RAG` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/LifeMemory-AI) |
+| **20 Newsgroups Semantic Search** | Embeddings + clustering + LLM Q&amp;A on 20-Newsgroups | `Embeddings` `Clustering` `LLMs` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/20_Newsgroups) |
+| **ResearchMate** | AI-powered research assistant Chrome Extension | `LangChain` `FastAPI` `Chrome Ext` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/ResearchMate) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://research-mate-1q43.vercel.app/) |
+| **Prepy-AI** | AI career assistant for resumes, cover letters &amp; interviews | `Next.js` `Clerk` `Gemini API` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Prepy-AI) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://prepy-ai.vercel.app) |
 
-### AI & Research Tools
+</details>
 
-| Project | Description | Tech Stack | Links |
-|:-------:|:-----------:|:----------:|:-----:|
-| **ResearchMate** | AI-powered research assistant Chrome Extension | `Chrome Extension` `LangChain` `FastAPI` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/ResearchMate) [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=chrome&logoColor=white)](https://research-mate-1q43.vercel.app/) |
-| **Prepy-AI** | AI career assistant for resumes, cover letters & interviews | `Next.js` `Clerk` `Neon` `Gemini API` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Prepy-AI) [![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://prepy-ai.vercel.app) |
-| **Smart AI Assistant** | Voice-controlled AI assistant with modular agents | `Python` `Voice Recognition` `Modular Agents` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Smart-AI-Assistant) |
+<details>
+<summary><b>Healthcare &amp; Medical AI (3 projects)</b></summary>
 
-### Data Science & Safety
+<br/>
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:-----------:|:----------:|:-----:|
-| **Apple Stock Predictor** | LSTM & GRU-based time-series forecasting model | `LSTM` `GRU` `Time Series` `TensorFlow` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/AppleStockPricePrediction) |
-| **Topography Classifier** | Satellite image classification into land types | `CNN` `Computer Vision` `Satellite Imagery` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Topography-Classifier) |
-| **Accident Emergency Responder** | Real-time emergency detection using geolocation & ML | `ML` `Geolocation` `Real-time` `Flask` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Accident-Emergency-Responder) |
+| **Derma-AI** | Skin lesion classification using ViT + EfficientNet fusion | `ViT` `EfficientNet` `Next.js` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Derma-AI) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://derma-ai-git-main-pranaykarvis-projects.vercel.app/) |
+| **Pneunomia-AI** | Ensemble-based pneumonia detection from chest X-rays | `Ensemble` `CNN` `Streamlit` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/pneunomia_software_project_git_version) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=streamlit&logoColor=white)](https://pneunomia-software-project-git-vers.vercel.app/) |
+| **Alzheimer's Pipeline** | Multimodal MRI+PET deep learning pipeline (XAI) | `PyTorch` `SHAP` `LIME` | [![Paper](https://img.shields.io/badge/Paper-00C7B7?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1PVEDv4W7olAccms80OrvOJsnezAtQTYK/view) |
+
+</details>
+
+<details>
+<summary><b>Safety &amp; Surveillance (2 projects)</b></summary>
+
+<br/>
+
+| Project | Description | Tech Stack | Links |
+|:-------:|:-----------:|:----------:|:-----:|
+| **WISE** | Weapon Identification &amp; Surveillance Engine — real-time threat detection | `YOLOv8` `FastAPI` `OpenCV` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/WISE) |
+| **Accident Emergency Responder** | Real-time emergency detection using geolocation &amp; ML | `ML` `Geolocation` `Flask` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Accident-Emergency-Responder) |
+
+</details>
+
+<details>
+<summary><b>Data Science &amp; Analytics (3 projects)</b></summary>
+
+<br/>
+
+| Project | Description | Tech Stack | Links |
+|:-------:|:-----------:|:----------:|:-----:|
+| **Apple Stock Predictor** | LSTM &amp; GRU-based time-series forecasting | `LSTM` `GRU` `TensorFlow` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/AppleStockPricePrediction) |
+| **Topography Classifier** | Satellite image classification into land types | `CNN` `Computer Vision` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Topography-Classifier) |
+| **Plant Disease Classifier** | CNN-based plant disease detection | `CNN` `Streamlit` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/PlantDisease) |
+
+</details>
+
+<details>
+<summary><b>AI Assistants (1 project)</b></summary>
+
+<br/>
+
+| Project | Description | Tech Stack | Links |
+|:-------:|:-----------:|:----------:|:-----:|
+| **Smart AI Assistant** | Voice-controlled AI assistant with modular agents | `Python` `Voice` `Agents` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Smart-AI-Assistant) |
+
+</details>
 
 </div>
 
 ---
+
+<!-- ========================== OPEN SOURCE ========================== -->
 
 ## Open-Source Contributions
 
 <div align="center">
 
-| Organization | Contribution | Pull Requests |
-|:------------:|:-----------:|:-------------:|
-| <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> | Improved CI test assertions and documentation | [PR #5772](https://github.com/microsoft/Microsoft365DSC/pull/5772) • [PR #5718](https://github.com/microsoft/Microsoft365DSC/pull/5718) |
-| <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" /> | Migrated test framework to Pytest; improved scalability | [PR #2451](https://github.com/apple/coremltools/pull/2451) • [PR #2561](https://github.com/apple/coremltools/pull/2561) • [PR #2580](https://github.com/apple/coremltools/pull/2580) |
-| <img src="https://img.shields.io/badge/NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" /> | Refactored condition update logic | [PR #8002](https://github.com/nasa/openmct/pull/8002) |
-| <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" /> | Improved logging practices | [PR #6400](https://github.com/apache/gravitino/pull/6400) |
-| <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> | Distributed training enhancements | [PR #1531](https://github.com/NVIDIA/Megatron-LM/pull/1531) |
-| <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> | Bug fixes and CLI usability improvements | [PR #7983](https://github.com/aws/aws-sam-cli/pull/7983) |
+![Total PRs](https://img.shields.io/badge/Total_Merged_PRs-20%2B-00C7B7?style=for-the-badge&logo=git&logoColor=white)
+![Organizations](https://img.shields.io/badge/Organizations-7-00C7B7?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+| Organization | Contribution | Impact | Pull Requests |
+|:------------:|:------------:|:------:|:-------------:|
+| <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white" /> | Migrated test framework to Pytest; improved scalability | Modernized testing infra | [#2451](https://github.com/apple/coremltools/pull/2451) · [#2561](https://github.com/apple/coremltools/pull/2561) · [#2580](https://github.com/apple/coremltools/pull/2580) |
+| <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> | Distributed training enhancements | Boosted multi-GPU efficiency | [#1531](https://github.com/NVIDIA/Megatron-LM/pull/1531) |
+| <img src="https://img.shields.io/badge/NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" /> | Refactored condition update logic | Cleaner mission-control code | [#8002](https://github.com/nasa/openmct/pull/8002) |
+| <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> | Bug fixes &amp; CLI usability improvements | Smoother developer experience | [#7983](https://github.com/aws/aws-sam-cli/pull/7983) |
+| <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> | Improved CI test assertions &amp; docs | Higher pipeline reliability | [#5772](https://github.com/microsoft/Microsoft365DSC/pull/5772) · [#5718](https://github.com/microsoft/Microsoft365DSC/pull/5718) |
+| <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /> | Fixed executor &amp; serialization-related issues | Stability for production DAGs | [#62104](https://github.com/apache/airflow/pull/62104) · [#63435](https://github.com/apache/airflow/pull/63435) · [#63494](https://github.com/apache/airflow/pull/63494) · [#63591](https://github.com/apache/airflow/pull/63591) · [#63962](https://github.com/apache/airflow/pull/63962) · [#64136](https://github.com/apache/airflow/pull/64136) |
+| <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" /> | Improved logging practices | Better observability | [#6400](https://github.com/apache/gravitino/pull/6400) |
 
 </div>
 
 ---
+
+<!-- ========================== LEADERSHIP ========================== -->
 
 ## Leadership & Community
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/55%2B_Mentored-00C7B7?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/4_Hackathons_Organized-00C7B7?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/30%25_Membership_Growth-00C7B7?style=for-the-badge&labelColor=0a0a0a" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ### Technical Lead
-<img src="https://img.shields.io/badge/ACM--W%20VIT-FF6B6B?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/ACM--W%20VIT-FF6B6B?style=for-the-badge" />
+<br/>
 <img src="https://img.shields.io/badge/July%202025-Present-00C7B7?style=flat-square" />
 
 </div>
 
-• **Workshops & Events:** Led technical workshops, coding sessions, and 4 large-scale hackathons (250–300+ participants each)  
-• **Mentorship:** Mentored 55+ members in programming, ML, and research practices  
-• **Research Support:** Supported research paper writing and publication efforts  
-• **Growth:** Increased club membership by ~30% through community initiatives
+<details>
+<summary><b>View Responsibilities</b></summary>
+
+<br/>
+
+- **Workshops &amp; Events:** Led technical workshops, coding sessions, and 4 large-scale hackathons (250–300+ participants each)
+- **Mentorship:** Mentored 55+ members in programming, ML, and research practices
+- **Research Support:** Supported research paper writing and publication efforts
+- **Growth:** Increased club membership by ~30% through community initiatives
+
+</details>
+
+<br/>
 
 <div align="center">
 
 ### Finance & Outreach
-<img src="https://img.shields.io/badge/CloudOps%20VIT%20Chennai-4ECDC4?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/CloudOps%20VIT%20Chennai-4ECDC4?style=for-the-badge" />
+<br/>
 <img src="https://img.shields.io/badge/June%202024-July%202025-00C7B7?style=flat-square" />
 
 </div>
 
-• Managed budgeting, sponsorships, and outreach for technical events
+<details>
+<summary><b>View Responsibilities</b></summary>
+
+<br/>
+
+- Managed budgeting, sponsorships, and outreach for technical events
+
+</details>
+
+<br/>
 
 <div align="center">
 
 ### Technical Team Member
-<img src="https://img.shields.io/badge/AI%20Club%20VIT%20Chennai-95E1D3?style=for-the-badge" />  
+<img src="https://img.shields.io/badge/AI%20Club%20VIT%20Chennai-95E1D3?style=for-the-badge" />
+<br/>
 <img src="https://img.shields.io/badge/Mar%202024-Apr%202025-00C7B7?style=flat-square" />
 
 </div>
 
-• Contributed to AI projects and technical workshops
+<details>
+<summary><b>View Responsibilities</b></summary>
+
+<br/>
+
+- Contributed to AI projects and technical workshops
+
+</details>
 
 ---
 
+<!-- ========================== TECH STACK ========================== -->
+
 ## Tech Stack
+
+### Skills Proficiency
+
+<div align="center">
+
+> **Expert** &nbsp;·&nbsp; **Proficient** &nbsp;·&nbsp; **Familiar**
+
+| Domain | Tools |
+|:------:|:------|
+| **AI / ML** | **Expert:** PyTorch, TensorFlow, scikit-learn &nbsp;·&nbsp; **Proficient:** Hugging Face, LangChain, XGBoost &nbsp;·&nbsp; **Familiar:** JAX |
+| **Backend** | **Expert:** FastAPI, Flask &nbsp;·&nbsp; **Proficient:** Django, Node.js, Express &nbsp;·&nbsp; **Familiar:** Spring, GraphQL |
+| **Frontend** | **Expert:** React, Next.js &nbsp;·&nbsp; **Proficient:** TypeScript, TailwindCSS &nbsp;·&nbsp; **Familiar:** SASS, React Native |
+| **Cloud / DevOps** | **Proficient:** AWS, Vercel, Docker, Firebase &nbsp;·&nbsp; **Familiar:** Kubernetes, GCP, Azure |
+| **Databases** | **Expert:** PostgreSQL &nbsp;·&nbsp; **Proficient:** MongoDB, Supabase, Redis &nbsp;·&nbsp; **Familiar:** Neon, SQLite |
+| **Dev Tools** | **Expert:** Git, GitHub, VS Code &nbsp;·&nbsp; **Proficient:** Postman, Streamlit, LaTeX &nbsp;·&nbsp; **Familiar:** W&amp;B, MLflow |
+
+</div>
+
+<br/>
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -235,7 +508,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E5B8?style=for-the-badge&logo=neon&logoColor=white)
 
 ### Machine Learning & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-0176FF?style=for-the-badge&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-792EE5?style=for-the-badge&logo=lightgbm&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge) ![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=transformers&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-0176FF?style=for-the-badge&logo=xgboost&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-792EE5?style=for-the-badge&logo=lightgbm&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=transformers&logoColor=black)
 
 ### Data Science & Analytics
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/seaborn-%230C55A5.svg?style=for-the-badge&logo=seaborn&logoColor=%23FFE4B5) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white)
@@ -253,6 +526,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
 
 ---
+
+<!-- ========================== GITHUB STATS ========================== -->
 
 <div align="center">
 
@@ -287,8 +562,6 @@
 </div>
 
 <br/>
-
-
 
 ### Profile Summary Cards
 
@@ -336,18 +609,113 @@
 
 <br/>
 
-### Profile Views Counter
+### Visitor Counter
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranaykarvi&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://profile-counter.glitch.me/pranaykarvi/count.svg" alt="Visitor Counter" />
 
 <br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=pranaykarvi&color=00C7B7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
+<!-- ========================== CURRENTLY EXPLORING ========================== -->
+
 <div align="center">
 
-### Let's Connect!
+## Currently Exploring
+
+<img src="https://img.shields.io/badge/Quantum_ML-00C7B7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Alignment-00C7B7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Diffusion_Models-00C7B7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Evaluation-00C7B7?style=for-the-badge&logoColor=white" />
+
+</div>
+
+---
+
+<!-- ========================== ASK ME ABOUT ========================== -->
+
+<div align="center">
+
+## Ask Me About
+
+<a href="mailto:Pranaykarvi@gmail.com?subject=Research%20Collaboration">
+  <img src="https://img.shields.io/badge/Research-00C7B7?style=for-the-badge&logoColor=white" />
+</a>
+<a href="mailto:Pranaykarvi@gmail.com?subject=Open%20Source%20Collaboration">
+  <img src="https://img.shields.io/badge/Open%20Source-00C7B7?style=for-the-badge&logoColor=white" />
+</a>
+<a href="mailto:Pranaykarvi@gmail.com?subject=LLMs%20%26%20Generative%20AI">
+  <img src="https://img.shields.io/badge/LLMs-00C7B7?style=for-the-badge&logoColor=white" />
+</a>
+<a href="mailto:Pranaykarvi@gmail.com?subject=RAG%20Systems">
+  <img src="https://img.shields.io/badge/RAG%20Systems-00C7B7?style=for-the-badge&logoColor=white" />
+</a>
+<a href="mailto:Pranaykarvi@gmail.com?subject=Internship%20Opportunities">
+  <img src="https://img.shields.io/badge/Internships-00C7B7?style=for-the-badge&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ========================== MORE ABOUT ME ========================== -->
+
+<div align="center">
+
+<details>
+<summary><b>More About Me</b></summary>
+
+<br/>
+
+- Contributed to **Apple, NASA, NVIDIA, and AWS** during undergraduate studies
+- Published an **IEEE paper on Quantum ML** in my second year
+- Built and deployed **10+ AI applications** while interning at **Samsung R&D**
+- Conducted research at **Taylor's University, Malaysia** on multimodal Alzheimer's detection
+- Focused on bridging **research papers** with **production-grade AI systems**
+
+</details>
+
+</div>
+
+---
+
+<!-- ========================== LET'S COLLABORATE CTA ========================== -->
+
+<div align="center">
+
+## Let's Collaborate
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00C7B7&height=70&section=header&text=Open+to+Research+%26+Internship+Opportunities&fontSize=22&fontColor=00C7B7&animation=fadeIn" />
+
+<br/>
+
+**Open to Research Collaborations, Internship Opportunities, and Open Source Projects.**
+
+<br/>
+
+<a href="mailto:Pranaykarvi@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-00C7B7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
+</a>
+<a href="https://www.linkedin.com/in/pranay-karvi-b5895a288/">
+  <img src="https://img.shields.io/badge/LinkedIn-00C7B7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" />
+</a>
+<a href="https://drive.google.com/file/d/1WiM8lXTkrKpEKlhGUhZ7GL0CIX5m15U1/view?usp=sharing">
+  <img src="https://img.shields.io/badge/View%20Resume-00C7B7?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" />
+</a>
+
+</div>
+
+---
+
+<!-- ========================== FOOTER ========================== -->
+
+<div align="center">
+
+### Let's Connect
 
 <p align="center">
   <a href="https://github.com/Pranaykarvi" target="_blank">
@@ -384,4 +752,3 @@
 </div>
 
 </div>
-
