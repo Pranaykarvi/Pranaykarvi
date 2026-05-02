@@ -97,7 +97,7 @@
 
 <div align="center">
 
-I'm an AI researcher and engineer building real-world systems at the intersection of **deep learning**, **RAG/LLM pipelines**, and **applied research**. From shipping IEEE-published quantum ML work to contributing to **Apple, NASA, NVIDIA, and AWS**, I focus on bridging research papers with production-grade systems.
+AI Research Intern with experience in **machine learning**, **deep learning**, and **LLM-based systems**. Skilled in **model evaluation**, **retrieval-augmented generation (RAG)**, and building scalable AI applications. Experienced in designing **data-driven pipelines**, benchmarking model performance, and developing real-world AI solutions. Interested in **AI evaluation**, **dataset curation**, and **LLM alignment**.
 
 </div>
 
@@ -138,18 +138,13 @@ Cloud / DevOps        ██████░░░░░░░░  50%
 
 </div>
 
-<details>
-<summary><b>View Responsibilities</b></summary>
-
-<br/>
+**Responsibilities**
 
 - **HDR Algorithm Development:** Designing and evaluating exposure-bracketing algorithms to maximize dynamic range while minimizing noise under real-time constraints
 - **Research & Implementation:** Conducting literature review and implementing hybrid pipelines combining image processing, multi-scale histogram analysis, and neural networks
 - **Model Optimization:** Developing and optimizing models using Python, OpenCV, NumPy, PyTorch, and TensorFlow with focus on latency–quality trade-offs
 - **Testing & Validation:** Performing robustness testing across diverse lighting scenarios and datasets
 - **Documentation:** Preparing technical documentation and contributing to research paper drafting
-
-</details>
 
 <br/>
 
@@ -162,18 +157,13 @@ Cloud / DevOps        ██████░░░░░░░░  50%
 
 </div>
 
-<details>
-<summary><b>View Responsibilities</b></summary>
-
-<br/>
+**Responsibilities**
 
 - **Alzheimer's Detection:** Developed deep learning pipelines for disease detection using MRI and PET multimodal data
 - **CNN Architectures:** Implemented and benchmarked VGG16, Xception, DenseNet201, and EfficientNet-B3
 - **Explainable AI:** Applied SHAP and LIME techniques to improve clinical interpretability
 - **Data Pipeline:** Worked on preprocessing, augmentation, and multi-modal feature fusion
 - **Publication:** Research manuscript submitted and under review (IEEE) — [View Paper](https://drive.google.com/file/d/1PVEDv4W7olAccms80OrvOJsnezAtQTYK/view?usp=sharing)
-
-</details>
 
 ---
 
@@ -289,6 +279,23 @@ Cloud / DevOps        ██████░░░░░░░░  50%
 
 </div>
 
+### RIMUS — Real-time Intelligent Multi-Utility System
+*Safetronics Challenge, IIT Bombay Techfest · Top 5 / 1000+ Teams Nationwide*
+
+- Designed an autonomous industrial safety rover with sensor-first, fail-safe system integration
+- Integrated ESP32 sensing, edge decision logic, vision/thermal perception, and real-time dashboards
+- Emphasized engineering judgment and reliability in safety-critical scenarios
+- **Team:** Harsh Singhal, Aqeeb Akeel, Lokesh Maan, Niket Suthar &nbsp;|&nbsp; **Mentor:** Dr. Ravi Prakash Dwivedi
+
+### ArogyaLink — Unified Digital Healthcare Ecosystem
+*Smart India Hackathon (SIH) 2025 · Internal Rounds · Top 100 / 864+ Teams*
+
+- Built a unified digital healthcare ecosystem for rural accessibility and multi-stakeholder workflows
+- **Team:** Harsh Singhal, Lokesh Maan, Niket Suthar, Madhumitha, Vani Makhija &nbsp;|&nbsp; **Mentors:** Dr. Sukriti, Dr. Suganthi
+
+### Welldoc Hackathon — Diabetes Risk Predictor
+- Built an explainable diabetes risk prediction system using **XGBoost + SHAP** &nbsp;|&nbsp; [Repository](https://github.com/Pranaykarvi/welldoc_hackathon)
+
 ---
 
 <!-- ========================== PROJECTS ========================== -->
@@ -297,49 +304,37 @@ Cloud / DevOps        ██████░░░░░░░░  50%
 
 <div align="center">
 
-<details open>
-<summary><b>LLM &amp; RAG Systems (4 projects)</b></summary>
-
-<br/>
+### LLM & RAG Systems
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:-----------:|:----------:|:-----:|
-| **LifeMemory AI** | RAG-based personal journaling with hybrid retrieval | `FastAPI` `Supabase` `RAG` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/LifeMemory-AI) |
-| **20 Newsgroups Semantic Search** | Embeddings + clustering + LLM Q&amp;A on 20-Newsgroups | `Embeddings` `Clustering` `LLMs` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/20_Newsgroups) |
-| **ResearchMate** | AI-powered research assistant Chrome Extension | `LangChain` `FastAPI` `Chrome Ext` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/ResearchMate) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://research-mate-1q43.vercel.app/) |
-| **Prepy-AI** | AI career assistant for resumes, cover letters &amp; interviews | `Next.js` `Clerk` `Gemini API` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Prepy-AI) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://prepy-ai.vercel.app) |
-
-</details>
-
-<details>
-<summary><b>Healthcare &amp; Medical AI (3 projects)</b></summary>
+| **LifeMemory AI** | Privacy-first AI journaling platform with hybrid retrieval and multi-step LLM reasoning | `FastAPI` `Supabase` `RAG` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/LifeMemory-AI) |
+| **20 Newsgroups Semantic Search** | Semantic search engine using embeddings, clustering &amp; cache-aware retrieval for LLM-powered Q&amp;A | `Embeddings` `Clustering` `LLMs` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/20_Newsgroups) |
+| **ResearchMate** | AI research assistant for paper summarization &amp; contextual Q&amp;A with response-quality evaluation | `LangChain` `FastAPI` `Chrome Ext` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/ResearchMate) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://research-mate-1q43.vercel.app/) |
+| **Prepy-AI** | LLM-based system to generate resumes, cover letters &amp; MCQs with focus on accuracy and personalization | `Next.js` `Clerk` `Gemini API` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Prepy-AI) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://prepy-ai.vercel.app) |
 
 <br/>
 
+### Healthcare & Medical AI
+
 | Project | Description | Tech Stack | Links |
 |:-------:|:-----------:|:----------:|:-----:|
-| **Derma-AI** | Skin lesion classification using ViT + EfficientNet fusion | `ViT` `EfficientNet` `Next.js` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Derma-AI) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://derma-ai-git-main-pranaykarvis-projects.vercel.app/) |
+| **Derma-AI** | Skin lesion classification using ViT + EfficientNet with improved robustness across diverse datasets | `ViT` `EfficientNet` `Next.js` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Derma-AI) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://derma-ai-git-main-pranaykarvis-projects.vercel.app/) |
 | **Pneunomia-AI** | Ensemble-based pneumonia detection from chest X-rays | `Ensemble` `CNN` `Streamlit` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/pneunomia_software_project_git_version) [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=streamlit&logoColor=white)](https://pneunomia-software-project-git-vers.vercel.app/) |
 | **Alzheimer's Pipeline** | Multimodal MRI+PET deep learning pipeline (XAI) | `PyTorch` `SHAP` `LIME` | [![Paper](https://img.shields.io/badge/Paper-00C7B7?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1PVEDv4W7olAccms80OrvOJsnezAtQTYK/view) |
 
-</details>
-
-<details>
-<summary><b>Safety &amp; Surveillance (2 projects)</b></summary>
-
 <br/>
+
+### Safety & Surveillance
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:-----------:|:----------:|:-----:|
-| **WISE** | Weapon Identification &amp; Surveillance Engine — real-time threat detection | `YOLOv8` `FastAPI` `OpenCV` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/WISE) |
+| **WISE** | Real-time AI surveillance for weapon detection, role classification &amp; low-latency threat assessment | `YOLOv8` `FastAPI` `OpenCV` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/WISE) |
 | **Accident Emergency Responder** | Real-time emergency detection using geolocation &amp; ML | `ML` `Geolocation` `Flask` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Accident-Emergency-Responder) |
 
-</details>
-
-<details>
-<summary><b>Data Science &amp; Analytics (3 projects)</b></summary>
-
 <br/>
+
+### Data Science & Analytics
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:-----------:|:----------:|:-----:|
@@ -347,18 +342,13 @@ Cloud / DevOps        ██████░░░░░░░░  50%
 | **Topography Classifier** | Satellite image classification into land types | `CNN` `Computer Vision` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Topography-Classifier) |
 | **Plant Disease Classifier** | CNN-based plant disease detection | `CNN` `Streamlit` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/PlantDisease) |
 
-</details>
-
-<details>
-<summary><b>AI Assistants (1 project)</b></summary>
-
 <br/>
+
+### AI Assistants
 
 | Project | Description | Tech Stack | Links |
 |:-------:|:-----------:|:----------:|:-----:|
 | **Smart AI Assistant** | Voice-controlled AI assistant with modular agents | `Python` `Voice` `Agents` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranaykarvi/Smart-AI-Assistant) |
-
-</details>
 
 </div>
 
@@ -412,17 +402,12 @@ Cloud / DevOps        ██████░░░░░░░░  50%
 
 </div>
 
-<details>
-<summary><b>View Responsibilities</b></summary>
-
-<br/>
+**Responsibilities**
 
 - **Workshops &amp; Events:** Led technical workshops, coding sessions, and 4 large-scale hackathons (250–300+ participants each)
 - **Mentorship:** Mentored 55+ members in programming, ML, and research practices
 - **Research Support:** Supported research paper writing and publication efforts
 - **Growth:** Increased club membership by ~30% through community initiatives
-
-</details>
 
 <br/>
 
@@ -435,14 +420,9 @@ Cloud / DevOps        ██████░░░░░░░░  50%
 
 </div>
 
-<details>
-<summary><b>View Responsibilities</b></summary>
-
-<br/>
+**Responsibilities**
 
 - Managed budgeting, sponsorships, and outreach for technical events
-
-</details>
 
 <br/>
 
@@ -455,14 +435,50 @@ Cloud / DevOps        ██████░░░░░░░░  50%
 
 </div>
 
-<details>
-<summary><b>View Responsibilities</b></summary>
-
-<br/>
+**Responsibilities**
 
 - Contributed to AI projects and technical workshops
 
-</details>
+---
+
+<!-- ========================== EDUCATION ========================== -->
+
+## Education
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Institution</th>
+      <th align="left">Qualification</th>
+      <th align="center">Period</th>
+      <th align="left">Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><b>Vellore Institute of Technology, Chennai</b></td>
+      <td align="left">B.Tech in Computer Science<br/><sub>Specialization in Data Science</sub></td>
+      <td align="center"><img src="https://img.shields.io/badge/Aug%202023-Present-00C7B7?style=flat-square" /></td>
+      <td align="left"><sub>Coursework: DSA, OS, DBMS, AI/ML, Image Processing</sub></td>
+    </tr>
+    <tr>
+      <td align="left"><b>LR Tiwari Junior College of Science &amp; Commerce, Mumbai</b></td>
+      <td align="left">Higher Secondary (Grade 11–12)</td>
+      <td align="center"><img src="https://img.shields.io/badge/May%202021-June%202023-00C7B7?style=flat-square" /></td>
+      <td align="left"><sub><b>JEE Mains:</b> 95%ile · <b>MHT-CET:</b> 97%ile · <b>Grade 12 (MSBSHSE):</b> 70%</sub></td>
+    </tr>
+    <tr>
+      <td align="left"><b>Seven Square Academy, Mumbai</b></td>
+      <td align="left">Secondary (Grade 1–10, CBSE)</td>
+      <td align="center"><img src="https://img.shields.io/badge/May%202008-March%202021-00C7B7?style=flat-square" /></td>
+      <td align="left"><sub><b>Grade 10 (CBSE):</b> 90%</sub></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
@@ -524,6 +540,9 @@ Cloud / DevOps        ██████░░░░░░░░  50%
 
 ### Development Tools & Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
+
+### Relevant Coursework
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00C7B7?style=for-the-badge) ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-00C7B7?style=for-the-badge) ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-00C7B7?style=for-the-badge) ![DBMS](https://img.shields.io/badge/Database%20Management%20Systems-00C7B7?style=for-the-badge) ![AI](https://img.shields.io/badge/Artificial%20Intelligence-00C7B7?style=for-the-badge) ![ML](https://img.shields.io/badge/Machine%20Learning-00C7B7?style=for-the-badge) ![TOC](https://img.shields.io/badge/Theory%20of%20Computation-00C7B7?style=for-the-badge) ![Image Processing](https://img.shields.io/badge/Image%20Processing-00C7B7?style=for-the-badge)
 
 ---
 
@@ -664,22 +683,13 @@ Cloud / DevOps        ██████░░░░░░░░  50%
 
 <!-- ========================== MORE ABOUT ME ========================== -->
 
-<div align="center">
-
-<details>
-<summary><b>More About Me</b></summary>
-
-<br/>
+## More About Me
 
 - Contributed to **Apple, NASA, NVIDIA, and AWS** during undergraduate studies
 - Published an **IEEE paper on Quantum ML** in my second year
 - Built and deployed **10+ AI applications** while interning at **Samsung R&D**
 - Conducted research at **Taylor's University, Malaysia** on multimodal Alzheimer's detection
 - Focused on bridging **research papers** with **production-grade AI systems**
-
-</details>
-
-</div>
 
 ---
 
