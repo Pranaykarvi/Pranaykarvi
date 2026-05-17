@@ -62,7 +62,7 @@
 
 <div align="center">
 
-**Email:** `Pranaykarvi@gmail.com` &nbsp;|&nbsp; **Phone:** `+91 8655287793` &nbsp;|&nbsp; **Resume:** [View Resume](https://drive.google.com/file/d/1WiM8lXTkrKpEKlhGUhZ7GL0CIX5m15U1/view?usp=sharing)
+**Email:** `Pranaykarvi@gmail.com` &nbsp;|&nbsp; **Phone:** `+91 8655287793` &nbsp;|&nbsp; **Resume:** [View Resume](https://drive.google.com/file/d/1tfyjkB1KNldIWZbMbHpjZu3jOLEsKU8n/view?usp=sharing)
 
 </div>
 
